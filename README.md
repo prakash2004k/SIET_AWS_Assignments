@@ -1,4 +1,4 @@
-![ChatGPT Image Apr 10, 2025, 05_47_41 PM](https://github.com/user-attachments/assets/def69178-f7c7-428b-8e04-62d6859b6a8d)# SIET_AWS_Assignments
+# SIET_AWS_Assignments
 Repo for SIET AWS Assignments
 
 # 1 ETC
